@@ -1,0 +1,15 @@
+{
+    "name": "devcontainer",
+    "context": "..",
+    "dockerFile": "dev.Dockerfile",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "twxs.cmake",
+                "ms-vscode.cmake-tools",
+                "ms-vscode.cpptools",
+                "ms-python.python"
+            ]
+        }
+    }
+}
