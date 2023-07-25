@@ -5,11 +5,12 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "twxs.cmake",
-                "ms-vscode.cmake-tools",
-                "ms-vscode.cpptools",
-                "ms-python.python"
-            ]
+				"twxs.cmake",
+				"ms-vscode.cmake-tools",
+				"ms-vscode.cpptools",
+				"ms-python.python",
+				"cweijan.vscode-typora"
+			]
         }
     }
 }
